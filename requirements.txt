@@ -1,0 +1,8 @@
+flask
+Pillow
+secrets
+flask_login
+flask_sqlalchemy
+wtforms
+flask_wtf
+flask_bcrypt

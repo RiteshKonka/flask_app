@@ -6,3 +6,4 @@ flask_sqlalchemy
 wtforms
 flask_wtf
 flask_bcrypt
+flask-mail
